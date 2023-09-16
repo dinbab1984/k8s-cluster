@@ -1,6 +1,6 @@
 # k8s-cluster
 Install minikube on windows
-````curl.exe -LO "https://github.com/kubernetes/minikube/releases/latest/download/minikube-windows-amd64.exe"````
+````curl.exe -Lo minikube.exe "https://github.com/kubernetes/minikube/releases/latest/download/minikube-windows-amd64.exe""````
 
 Append or prepend the minikube binary folder to your PATH environment variable.
 
